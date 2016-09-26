@@ -19,8 +19,8 @@ A list of awesome CSIRT tools, papers and presentations.
 
 ## Articles
 
-[Windows Events log for IR/Forensics Part 1][https://isc.sans.edu/diary/Windows+Events+log+for+IRForensics+%2CPart+1/21493]
-[Windows Events log for IR/Forensics Part 2][https://isc.sans.edu/forums/diary/Windows+Events+log+for+IRForensics+Part+2/21501/]
+[Windows Events log for IR/Forensics Part 1](https://isc.sans.edu/diary/Windows+Events+log+for+IRForensics+%2CPart+1/21493)
+[Windows Events log for IR/Forensics Part 2](https://isc.sans.edu/forums/diary/Windows+Events+log+for+IRForensics+Part+2/21501/)
 
 
 ### Books
