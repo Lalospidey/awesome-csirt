@@ -31,6 +31,17 @@ A list of awesome CSIRT tools, papers and presentations.
 - [Threatcrowd](https://threatcrowd.org/)
 - [BTA](https://bitbucket.org/iwseclabs/bta)
 - [Malware Config](https://malwareconfig.com/)
+- [Spiderfoot](http://www.spiderfoot.net/info/)
+- [IVRE — Network recon framework](https://ivre.rocks/)
+- [IPew Attack Map](https://github.com/hrbrmstr/pewpew)
+- [OWASP AppSensor Project](https://www.owasp.org/index.php/OWASP_AppSensor_Project)
+- [Laika BOSS: Object Scanning System](https://github.com/lmco/laikaboss)
+- [YAF](http://tools.netsa.cert.org/yaf/yafdpi.html)
+- [AIL-Framework](https://github.com/CIRCL/AIL-framework)
+- [CVE-Search](https://github.com/cve-search/cve-search)
+- [VorpalSpyglass - A tool for automatic detection of Domain Generation Algorithm (DGA)](https://github.com/BenH11235/VorpalSpyglass)
+- [FastNetMon](https://github.com/pavel-odintsov/fastnetmon)
+- [DPDK-based packet capture tool)](https://github.com/dpdkcap/dpdkcap)
 
 ## Resources
 
@@ -39,6 +50,11 @@ A list of awesome CSIRT tools, papers and presentations.
 - [DomainBigData](http://domainbigdata.com/)
 - [IOC Bucket](https://www.iocbucket.com/)
 - [Cybersecurity 500](http://cybersecurityventures.com/)
+- [IP Spoofing](https://spoofer.caida.org/summary.php)
+- [CVRF](http://www.icasi.org/cvrf/)
+- [CISCO PSIRT](https://developer.cisco.com/site/PSIRT/)
+- [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/)
+- [APT Groups and Operations](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/htmlview?pli=1)
 
 ## Articles
 
@@ -70,6 +86,13 @@ A list of awesome CSIRT tools, papers and presentations.
 - [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
 - [Advanced Defense Posture Assessment](https://nigesecurityguy.wordpress.com/2014/10/09/advanced-defense-posture-assessment/)
 - [APTNotes](https://github.com/kbandla/APTnotes)
+- [Goin' huntin'](https://windowsir.blogspot.de/2015/11/goin-huntin.html)
+- [APT Detection Framework](https://nigesecurityguy.wordpress.com/2013/11/12/apt-detection-framework/)
+- [Protecting Windows Networking - Dealing with Credential Theft](https://dfir-blog.com/2015/11/24/protecting-windows-networks-dealing-with-credential-theft/)
+- [Ransomware Playbook – Guide for Handling Ransomware Infections](https://www.demisto.com/playbook-for-handling-ransomware-infections/)
+- [Phishing Incident Response Playbook](https://www.demisto.com/phishing-incident-response-playbook/)
+- [Monitoring pastebin.com within your SIEM](https://blog.rootshell.be/2012/01/17/monitoring-pastebin-com-within-your-siem/)
+- [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)
 
 ### Books
 
@@ -79,6 +102,7 @@ A list of awesome CSIRT tools, papers and presentations.
 
 - [Large Scale Malware Analysis](https://github.com/REhints/Publications/blob/master/Conferences/BH'2015/BH_2015.pdf)
 - [Hunting Through RDP Data](https://www.bro.org/brocon2015/slides/liburdi_hunting_rdp.pdf)
+- [Incident Response - Taking CSIRT Modeling to the next level](http://frodehommedal.no/presentations/first-tc-oslo-2015/#/slide-start)
 
 ### Papers
 
