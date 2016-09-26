@@ -42,6 +42,7 @@ A list of awesome CSIRT tools, papers and presentations.
 - [VorpalSpyglass - A tool for automatic detection of Domain Generation Algorithm (DGA)](https://github.com/BenH11235/VorpalSpyglass)
 - [FastNetMon](https://github.com/pavel-odintsov/fastnetmon)
 - [DPDK-based packet capture tool)](https://github.com/dpdkcap/dpdkcap)
+- [Abuse.IO](https://abuse.io/)
 
 ## Resources
 
